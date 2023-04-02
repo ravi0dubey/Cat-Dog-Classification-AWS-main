@@ -86,5 +86,7 @@
     
 #### CI-CD Pipeline
 ##### ECR Image
-![image](https://user-images.githubusercontent.com/38419795/229327356-dbcf5d65-ca45-46f8-88ab-eafbca75976e.png)
+![image](https://user-images.githubusercontent.com/38419795/229327985-a5e4690e-d134-4285-b62c-e13d8ee0747e.png)
+
+
 ![image](https://user-images.githubusercontent.com/38419795/229327478-759ff3e3-fea5-4ada-ac4e-c7a51692ee45.png)
