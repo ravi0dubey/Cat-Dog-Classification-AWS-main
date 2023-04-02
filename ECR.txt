@@ -1,2 +1,0 @@
-638323978781.dkr.ecr.us-east-1.amazonaws.com/catdog
-ecr name: catdog
