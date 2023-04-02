@@ -82,3 +82,8 @@
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+    
+    
+#### CI-CD Pipeline
+##### ECR Image
+![image](https://user-images.githubusercontent.com/38419795/229327356-dbcf5d65-ca45-46f8-88ab-eafbca75976e.png)
